@@ -1,6 +1,6 @@
 [
   {
-    "name": "simple-app",
-    "imageUri": "httpd:2.4"
+    "name": "nginx",
+    "imageUri": "nginx:latest"
   }
 ]

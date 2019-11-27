@@ -1,0 +1,6 @@
+[
+  {
+    "name": "simple-app",
+    "imageUri": "httpd:2.4"
+  }
+]

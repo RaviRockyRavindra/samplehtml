@@ -1,6 +1,6 @@
 [
   {
-    "name": "nginx",
-    "imageUri": "nginx:latest"
+    "name": "httpd",
+    "imageUri": "httpd:latest"
   }
 ]
